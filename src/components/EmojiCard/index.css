@@ -1,0 +1,11 @@
+/* Write your code here. */
+.emoji-size {
+  height: 100px;
+}
+.each-emoji-cont {
+  margin: 30px;
+  background-color: #ffffff33;
+  padding: 30px;
+  border-radius: 20px;
+  border: none;
+}

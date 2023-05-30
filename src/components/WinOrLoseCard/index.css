@@ -1,0 +1,25 @@
+.win-lost-cont {
+  width: 70%;
+  background-color: #ffffff33;
+  padding: 30px;
+  border-radius: 20px;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  margin: auto;
+}
+.play-btn {
+  background-color: #ffce27;
+  color: white;
+  width: 120px;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+}
+.won-txt {
+  font-size: 20px;
+  font-weight: bold;
+}

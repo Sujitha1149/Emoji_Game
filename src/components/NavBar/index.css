@@ -1,0 +1,17 @@
+.nav-bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+.nav-half {
+  display: flex;
+  flex-direction: row;
+  font-size: 10px;
+  color: white;
+}
+.s-cont {
+  margin-right: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
